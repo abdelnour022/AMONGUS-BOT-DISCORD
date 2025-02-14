@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord.ui import Button, View
 
 # إدخال التوكن الخاص بالبوت مباشرة
-bot_token = "MTMwOTUxMDA3MzQ4NzMzMTQwMA.GvSlJ2.T--k-UlhY9n5GFq-a9ooLLZMXVktHopmIe-uOU"
+bot_token = "PUT_TOKEN_HERE"
 command_prefix = "!"  # بادئة الأوامر
 owner_id = "1305949911577006210"  # معرف المالك (اختياري)
 
