@@ -5,7 +5,7 @@ from discord.ui import Button, View
 # إدخال التوكن الخاص بالبوت مباشرة
 bot_token = "PUT_TOKEN_HERE"
 command_prefix = "!"  # بادئة الأوامر
-owner_id = "1305949911577006210"  # معرف المالك (اختياري)
+owner_id = "owner_id_here"  # معرف المالك (اختياري)
 
 # إعداد البوت
 intents = discord.Intents.default()
